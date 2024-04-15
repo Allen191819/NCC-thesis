@@ -6,7 +6,7 @@
 
 ## 使用指南
 
-请使用XeLaTex或LuaLaTex进行编译，具体使用方法参考原版说明[README](https://github.com/Allen191819/NCC-thesis/blob/master/README_original.md)。
+请使用XeLaTex进行编译，具体使用方法参考原版说明[README](https://github.com/Allen191819/NCC-thesis/blob/master/README_original.md)。
 
 ## Reference
 
