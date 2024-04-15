@@ -4,6 +4,10 @@
 
 仅供个人学习使用。
 
+## 使用指南
+
+请使用XeLaTex或LuaLaTex进行编译，具体使用方法参考原版说明[README](https://github.com/Allen191819/NCC-thesis/blob/master/README_original.md)。
+
 ## Reference
 
 [WHU-thesis](https://github.com/whutug/whu-thesis)
