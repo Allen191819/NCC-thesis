@@ -48,7 +48,7 @@
 % 目录样式设置
 \RequirePackage{tocloft}
 \setcounter{tocdepth}{2}        % 目录层级数
-\setcounter{secnumdepth}{2}     % 标题层级数
+\setcounter{secnumdepth}{5}     % 标题层级数
 
 \renewcommand{\cfttoctitlefont}{\hfill\heiti\zihao{-2}} % 目录标题 黑体小 2 号
 \renewcommand{\contentsname}{目\hspace{2em}录}
